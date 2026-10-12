@@ -178,14 +178,3 @@ Testing helps ensure that valid and invalid inputs are handled correctly. GitHub
 3. GitHub Documentation. https://docs.github.com/en/get-started/writing-on-github
 4. GitHub Documentation about READMEs. https://docs.github.com/en/repositories
 5. CPP102 Weeks 13 to 16 Lecture and Laboratory Modules, Department of Computer Engineering, Pamantasan ng Cabuyao.
-
-# Before Submitting
-
-- Save the file as README.md.
-- Check the required section headings with your lecture.
-- Run the Python program and record actual output.
-- Complete test\_cases.md using your real test results.
-- Add a docstring to every function.
-- Push all three files to GitHub.
-- Make at least four meaningful commits.
-- Make sure you can explain your code.
