@@ -2,7 +2,7 @@
 
 Tested by: Dela Cruz, John Louie P.
 
-Date of testing: Your Testing Date
+Date of testing: October 10, 2026
 
 | Test Case| Input or Action | Expected Result | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
